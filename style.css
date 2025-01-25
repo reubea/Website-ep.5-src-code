@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    background: yellow;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+.title {
+    font-size: 70pt;
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+}
+
+.podcasts {
+    transform: translateX(50px);
+}
+
+.aboutRubiconBtn {
+    transform: translateX(-50px);
+}
+
+.Side-menu {
+    background: blueviolet;
+    width: 100px;
+    height: 500px;
+    transform: translate(1000px, -200px);
+}
+
+.logoImg {
+    width: 20%;
+    height: 20%;
+    transform: translate(-400px, -760px);
+}
